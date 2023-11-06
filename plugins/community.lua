@@ -11,5 +11,5 @@ return {
   { import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.pack.haskell" },
   { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.editing-support.multicursors-nvim" },
+  -- { import = "astrocommunity.editing-support.multicursors-nvim" },
 }
